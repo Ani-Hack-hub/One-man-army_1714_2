@@ -1,7 +1,7 @@
 import static_logo from "../assets/static.png";
 import "../static/watch_now.css";
 
-function Watch_now() {
+function Live() {
   var element = (
     <div id="carouselExample" class="carousel slide">
       <h5>WATCH NOW</h5>
@@ -77,4 +77,4 @@ function Watch_now() {
   );
   return element;
 }
-export default Watch_now;
+export default Live;
